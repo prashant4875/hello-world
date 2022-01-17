@@ -19,7 +19,7 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
-    <label for="Nation"><b>Your Nationality</b></label>
+    <label for="Nation"><b>Nationality Of a User</b></label>
     <input type="text" placeholder="Enter Nationality" name="Nation" id="Nation" required>
     <br>
 
