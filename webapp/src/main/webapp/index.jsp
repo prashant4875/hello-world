@@ -34,7 +34,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Devops Learning and learn more devops tools and complete CI/CD tools </h1>
+   <h1> Thankyou, Happy Devops Learning and learn more devops tools and complete CI/CD pipeline. </h1>
 
   
 </form>
